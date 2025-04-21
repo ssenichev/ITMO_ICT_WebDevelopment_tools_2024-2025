@@ -1,0 +1,8 @@
+site_name: ITMO Web Development Tools
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Lr1: lab1/index.md
+  - Lr2: lab2/index.md
+  - Lr3: lab3/index.md
